@@ -1,4 +1,4 @@
-# This is the homepage of Yuting Gui
+# This is the homepage of Jiali Zhou
 The templete is from [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
 
